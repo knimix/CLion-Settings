@@ -1,10 +1,9 @@
-<scheme name="ColorScheme copy" version="142" parent_scheme="Darcula">
+<scheme name="ClionTheme" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2020-12-18T18:24:02</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2020.1.0.0</property>
     <property name="modified">2020-12-18T18:24:09</property>
-    <property name="originalScheme">ColorScheme copy</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
