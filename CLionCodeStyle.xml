@@ -1,0 +1,40 @@
+<code_scheme name="ClionCodeStyle" version="173">
+  <Objective-C>
+    <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
+    <option name="SPACE_WITHIN_TEMPLATE_DOUBLE_GT" value="false" />
+    <option name="ALIGN_INIT_LIST_IN_COLUMNS" value="false" />
+    <option name="SPACE_BEFORE_COLON_IN_FOREACH" value="true" />
+    <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+    <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
+    <option name="SPACE_BEFORE_DICTIONARY_LITERAL_COLON" value="true" />
+  </Objective-C>
+  <files>
+    <extensions>
+      <pair source="cpp" header="h" fileNamingConvention="PASCAL_CASE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+      <pair source="cu" header="cuh" fileNamingConvention="NONE" />
+      <pair source="ixx" header="" fileNamingConvention="NONE" />
+      <pair source="mxx" header="" fileNamingConvention="NONE" />
+      <pair source="cppm" header="" fileNamingConvention="NONE" />
+      <pair source="ccm" header="" fileNamingConvention="NONE" />
+      <pair source="cxxm" header="" fileNamingConvention="NONE" />
+      <pair source="c++m" header="" fileNamingConvention="NONE" />
+    </extensions>
+  </files>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="RIGHT_MARGIN" value="200" />
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="0" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+    <option name="ALIGN_MULTILINE_ASSIGNMENT" value="false" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="false" />
+    <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
